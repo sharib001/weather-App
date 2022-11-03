@@ -2,4 +2,4 @@
 
 <a href="https://get-your-weather.netlify.app/">Live Demo</a>
 
-<img src="/Demo.png" alt="Demo-pic-of-Weather App" width="650" height="500">
+<img src="/Demo.png" alt="Demo-pic-of-Weather App" width="600" height="600">
